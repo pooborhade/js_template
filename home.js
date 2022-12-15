@@ -1,3 +1,3 @@
-<script type="text/javascript">
-console.log('critizr')
+<script >
+console.log('critizr');
 </script>
