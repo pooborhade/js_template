@@ -1,3 +1,4 @@
 <script >
-console.log('critizr');
+var a='critizr';
+return a;
 </script>
