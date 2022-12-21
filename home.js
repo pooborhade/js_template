@@ -11,6 +11,9 @@
      first_party_collection: true,
      'send_page_view': true,
   });
+gtag('event', 'page_view', {
+  send_to: 'G-60FDXKEXRK'
+})
 </script>
 <script type="text/javascript"> (function(i,s,o,g,r,a,m) 
  {i[r]=i[r],a=s.createElement(o), m=s.getElementsByTagName(o)[0];
