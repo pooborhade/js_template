@@ -9,7 +9,7 @@
   gtag('config', 'G-60FDXKEXRK', {
      transport_url: 'https://sgtm-ahava-tagging-server.azurewebsites.net',
      first_party_collection: true,
-     'send_page_view': false,
+     'send_page_view': true,
   });
 </script>
 <script type="text/javascript"> (function(i,s,o,g,r,a,m) 
