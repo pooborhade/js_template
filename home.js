@@ -13,7 +13,7 @@
   });
 gtag('event', 'page_view', {
   send_to: 'G-60FDXKEXRK'
-})
+});
 
 
 
