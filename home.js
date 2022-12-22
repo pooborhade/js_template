@@ -16,4 +16,9 @@ gtag('event', 'page_view', {
 });
 </script>
 
-
+<script type="text/javascript">
+function js_onload_code (){
+alert(" Hello, you are learning onload event in JavaScript");
+}
+window.onload= js_onload_code ();
+</script>
