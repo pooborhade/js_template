@@ -1,4 +1,4 @@
-
+<head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://tagging.example.com/gtag/js?id=G-60FDXKEXRK"></script>
 <script>
@@ -16,9 +16,4 @@ gtag('event', 'page_view', {
 });
 </script>
 
-<script type="text/javascript">
-function js_onload_code (){
-alert(" Hello, you are learning onload event in JavaScript");
-}
-window.onload= js_onload_code ();
-</script>
+</head>
