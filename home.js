@@ -1,4 +1,4 @@
-<head>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://tagging.example.com/gtag/js?id=G-60FDXKEXRK"></script>
 <script>
@@ -16,4 +16,3 @@ gtag('event', 'page_view', {
 });
 </script>
 
-</head>
