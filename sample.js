@@ -1,4 +1,6 @@
 <script >
-  var a="hello script is running";
-console.log(a);
+  gtag('event', 'add_to_cart', {
+  'page_path': '/sampleEcommTest'
+
+})
   </script>
