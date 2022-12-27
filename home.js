@@ -1,6 +1,6 @@
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://tagging.example.com/gtag/js?id=G-60FDXKEXRK"></script>
+<script async src="https://sgtm-ahava-tagging-server.azurewebsites.net/gtag/js?id=G-60FDXKEXRK"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
