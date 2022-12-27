@@ -1,5 +1,5 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=TAG_ID&l=myNewName"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-60FDXKEXRK&l=myNewName"></script>
 <script>
   window.myNewName = window.myNewName || [];
   function gtag(){myNewName.push(arguments);}
