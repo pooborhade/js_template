@@ -1,4 +1,3 @@
-<script >
-  var a="hello script is running";
-console.log(a);
-  </script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}
